@@ -1,4 +1,2 @@
-# Templated Linked List
-This is my repo containing my work for Project 1 of COP3503. 
-
-First project for COP 3503, a second-sequence introductory computer science course in C++ at the University of Florida.
+# **Templated Linked List**
+Linked List data structure utilizing templates in order to store any type of data. Learned about non-contiguous memory, pointers, and memory allocation.
